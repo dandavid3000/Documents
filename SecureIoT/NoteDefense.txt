@@ -1,0 +1,30 @@
+First slides - introduce the department, team
+
+Agenda, demo first - then conclude : we'll show 
+
+What I did, my goal, objectives. 
+
+Explain PLCs
+
+Overview - End to end encryption confidentiality ->
+
+Explain in the component, explain data flow - Role
+
+Use another picture in slide 09 - 
+
+I did the modification - Why ?
+What is my contribution - explain everything
+
+Payload - sua lai cai hinh
+
+attack models 
+
+What are goals - What are assumptions
+the attacker wants to decrypt messages, interfere predictive attack models
+gives assumption - what he is able to do
+	no access 
+	 
+How he can do ? - attack models
+
+slide 16 - Goal -> access to the system -> developer/admin dashboard -> get the token
+-> SAP HCP -> Dashboard-> Plaintext - root key, 
